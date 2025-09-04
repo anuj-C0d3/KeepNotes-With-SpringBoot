@@ -5,12 +5,12 @@ FROM openjdk:21-jdk-slim
 WORKDIR /app
 
 # Copy Gradle wrapper and build files
-COPY gradlew gradlew
-COPY gradle gradle
-COPY build.gradle settings.gradle ./
+COPY keep-notes/gradlew gradlew
+COPY keep-notes/gradle gradle
+COPY keep-notes/build.gradle settings.gradle ./
 
 # Copy source code
-COPY src src
+COPY keep-notes/src src
 
 # Make gradlew executable
 RUN chmod +x gradlew
