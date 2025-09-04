@@ -49,7 +49,12 @@ dependencies {
 	testImplementation 'org.springframework.security:spring-security-test'
 	testRuntimeOnly 'org.junit.platform:junit-platform-launcher'
 }
-
+springBoot {
+	mainClass = 'com.gts.keepnotes.KeepNotesApplication'
+}
+bootJar {
+	archiveFileName = 'keepnotes.jar'
+}
 tasks.named('test') {
 	useJUnitPlatform()
 }
