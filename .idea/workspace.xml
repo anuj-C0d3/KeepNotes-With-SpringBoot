@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8d64f2af-0180-4cf0-b93c-b441441d1aa6" name="Changes" comment="Second commit">
-      <change beforePath="$PROJECT_DIR$/keepnotes_frontend/src/services/api.js" beforeDir="false" afterPath="$PROJECT_DIR$/keepnotes_frontend/src/services/api.js" afterDir="false" />
-    </list>
+    <list default="true" id="8d64f2af-0180-4cf0-b93c-b441441d1aa6" name="Changes" comment="Second commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -67,21 +65,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Gradle.Build keep-notes.executor": "Run",
-    "Gradle.keep-notes [:com.gts.keepnotes.KeepNotesApplication.main()].executor": "Run",
-    "Gradle.keep-notes [clean package].executor": "Run",
-    "Gradle.keep-notes [clean].executor": "Run",
-    "Gradle.keep-notes [jar].executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Gradle.Build keep-notes.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.keep-notes [:com.gts.keepnotes.KeepNotesApplication.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.keep-notes [clean package].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.keep-notes [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.keep-notes [jar].executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunAnythingCache">
     <option name="myCommands">
       <command value="gradle clean" />
@@ -195,16 +193,5 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Second commit" />
     <option name="LAST_COMMIT_MESSAGE" value="Second commit" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/keep-notes/build.gradle</url>
-          <line>33</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
